@@ -7,7 +7,7 @@ I'm Pedro, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying **Analysis and Development of Systems** at PUC-Minas.
-- <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> I can speak native **Brazilian portuguese** and fluent **English**, Basic **Spanish** and **Bahasa Indonesa**.
+- <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://www.flaticon.com/free-icon/spain_197593" width="15"/><img src="https://www.flaticon.com/free-icon/indonesia_6157721" width="15"/> I can speak native **Brazilian portuguese** and fluent **English**, Basic **Spanish** and **Bahasa Indonesa**.
 - **GPA 1st Semester** (converted on a 0-4 weighted scale): 3.984 (PUC)
 
 ## 🤓 Experience
