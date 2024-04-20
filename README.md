@@ -21,7 +21,7 @@ I'm Pedro, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 <div> 
 <br>
   <a href="#">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=*8BitsSpike*&color=blueviolet&style=for-the-badge&label=VISITORS"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=8BitsSpike&color=blueviolet&style=for-the-badge&label=VISITORS"/>
   </a>
 </div>
 
@@ -35,4 +35,4 @@ I'm Pedro, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
         </div>
 </div>
     <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=*8BitsSpike*&theme=github-compact">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=8BitsSpike&theme=github-compact">
