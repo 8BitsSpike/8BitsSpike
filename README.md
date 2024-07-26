@@ -30,11 +30,8 @@ This is my GitHub profile, in it you will find some of my public projects and re
 ##
 
 <div>
-  <a href="#" target="_self">
-      <div align="center">
-        <img width="60%" src="https://github-readme-stats-plum-five-51.vercel.app//api?username=8BitsSpike&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/>
-        <img width="38.25%" src="https://github-readme-stats-plum-five-51.vercel.app//api/top-langs/?username=8BitsSpike&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-        </div>
+ <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8BitsSpike&layout=donut"/>
+        <img width="38.25%" src="https://github-readme-stats.vercel.app/api?username=8BitsSpike&show_icons=true&theme=dracula"/></a>
 </div>
     <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=8BitsSpike&theme=github-compact">
