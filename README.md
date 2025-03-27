@@ -4,7 +4,7 @@
 
 <p>Bem-sinvo ao meu Github! </br>
 Me chamo Pedro, sou um desenvolvedor fullstack <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b> Brasileiro</b>, adoro aprender e ensinar/ajudar quem precisa.<br>
-Este é meu perfil do Github, nele você vai encontrar alguns de meus projetos públicos e porsitórios.<br>
+Este é meu perfil do Github, nele você vai encontrar alguns de meus projetos públicos e repositórios.<br>
 
 ## 📖 Sobre mim
 
