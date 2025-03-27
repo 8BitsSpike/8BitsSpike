@@ -1,3 +1,17 @@
+# Bem-vindo ao meu Github! / Welcome to my Github page!
+
+### Olá, Me chamo Pedro!
+
+<p>Bem-sinvo ao meu Github! </br>
+Me chamo Pedro, sou um desenvolvedor fullstack <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b> Brasileiro</b>, adoro aprender e ensinar/ajudar ous outros.<br>
+Este é meu perfil do Github, nele você vai encontrar alguns de meus projetos públicos e porsitórios.<br>
+
+## 📖 Sobre mim
+
+- 🎓 Atualmente estou estudando **Analise e Desenvolvimento de Sistemas** na PUC-Minas.
+- 🔊 Sou fluente em <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/>**Português**, fluente em <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/> **Inglês** e tenho conhecimentos básicos em <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-1024x1024.png" width="15"/> **Espanhol** e <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Indonesia_Flat_Round-1024x1024.png" width="15"/> **Bahasa Indonesa**.
+- 📝 **Média Acadêmica 3° Semestre** 9,8 (PUC)
+
 ### Hi, I'm Pedro!
 
 <p>Welcome to my GitHub page! </br>
@@ -10,7 +24,7 @@ This is my GitHub profile, in it you will find some of my public projects and re
 - 🔊 I can speak native <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/> **Brazilian portuguese**, fluent <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/> **English** and Basic in <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-1024x1024.png" width="15"/> **Spanish** and <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Indonesia_Flat_Round-1024x1024.png" width="15"/> **Bahasa Indonesa**.
 - 📝 **GPA 3rd Semester** (converted on a 0-4 weighted scale): 3.613 (PUC)
 
-## 💾 Experience
+## 💾 Experiência / Experience
 
 - C# <br>
 - Java
